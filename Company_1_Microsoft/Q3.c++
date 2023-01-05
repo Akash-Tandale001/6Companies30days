@@ -1,6 +1,8 @@
-3.Bulls and Cows
-Leetcode : Bulls and Cows
-https://leetcode.com/problems/bulls-and-cows/description/
+#include<bits/stdc++.h>
+using namespace std;
+// 3.Bulls and Cows
+// Leetcode : Bulls and Cows
+// https://leetcode.com/problems/bulls-and-cows/description/
 
 class Solution {
 public:
